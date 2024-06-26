@@ -748,14 +748,6 @@ https://linear-223.frequency.stream/dist/localnow/223/hls/master/playlist.m3u8
 
 https://linear-279.frequency.stream/dist/localnow/279/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LocalNow_LNZen" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fd9322332850459227a39b8" group-title="LocalNow: Relaxation",LN Zen
-
-https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNow_UtahTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618d3434ade9ff1b4f1360f3" group-title="LocalNow: Relaxation",Utah TV
-
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/51901278-b41e-4b0c-a237-9b9b3fb3f2c8.m3u8?adMethod=3&UtahtvLocalNow
-
 #EXTINF:-1 tvg-id="LocalNow_LocalNowCoffeehouse" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e4deb9090d10fc0495cb8" group-title="LocalNow: Relaxation",Local Now Coffeehouse
 
 https://linear-272.frequency.stream/dist/localnow/272/hls/master/playlist.m3u8
