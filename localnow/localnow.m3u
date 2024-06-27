@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LocalNow_PlymouthRockTVTheBestofNewEngland" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/632b7d8b4fc7d1d1f20257f2" group-title="LocalNow: Local",Plymouth Rock TV The Best of New England
-https://na.lin-test-ear.zype.com/9477c80e-438b-41a3-b2c5-05b028bfb0b2/b3e57cea-b610-45ff-a31e-146c424573a7-hls3/live.m3u8
+https://na.linear.zype.com/9477c80e-438b-41a3-b2c5-05b028bfb0b2/b3e57cea-b610-45ff-a31e-146c424573a7-hls3/live.m3u8
 #EXTINF:-1 tvg-id="LocalNow_VeryPittsburghbyWTAE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2" group-title="LocalNow: More Cities",Very Pittsburgh by WTAE
 https://linear-36.frequency.stream/dist/localnow/36/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LocalNow_WPXI(NBC)News11PittsburghPA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/64024d6ba8e0c6228f0a9166" group-title="LocalNow: Local",WPXI (NBC) News 11 Pittsburgh PA
